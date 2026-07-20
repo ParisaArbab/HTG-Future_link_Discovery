@@ -13,6 +13,7 @@
 FutureLink HGT is a heterogeneous Graph Neural Network project for discovering missing semantic links in academic graphs. It models authors, papers, and research concepts, then predicts which concepts should be connected to each paper.
 
 The project addresses graph sparsity, missing metadata, and weak semantic connections in large scholarly networks.
+Microsoft Academic Graph (MAG) or ogbn-mag contains four types of entities—papers (736,389 nodes), authors (1,134,649 nodes), institutions (8,740 nodes), and fields of study (59,965 nodes)—as well as four types of directed relations connecting two types of entities—an author is “affiliated with” an institution, an author “writes” a paper, a paper “cites” a paper, and a paper “has a topic of” a field of study. Similar to ogbn-arxiv, each paper is associated with a 128-dimensional word2vec feature vector, and all the other types of entities are not associated with input node features.
 
 ## Features
 
@@ -92,7 +93,7 @@ Ranked Missing Links
 ## Project Structure
 
 ```text
-future-link-discovery-hgt/
+HGT-future-link-discovery/
 ├── app.py
 ├── configs/
 │   └── default.yaml
@@ -142,8 +143,8 @@ future-link-discovery-hgt/
 ### Standard installation
 
 ```bash
-git clone https://github.com/ParisaArbab/future-link-discovery-hgt.git
-cd future-link-discovery-hgt
+git clone https://github.com/ParisaArbab/HGT-future_link_discovery.git
+cd HGT-future_link_discovery
 
 python -m venv .venv
 source .venv/bin/activate
