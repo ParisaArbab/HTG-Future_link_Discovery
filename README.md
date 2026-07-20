@@ -350,7 +350,11 @@ The included CSV files are synthetic MAG-style data created for demonstration. T
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Copyright (c) 2026 Parisa Arbab
+
+All rights reserved by Author.
+
+
 
 ## Author
 
