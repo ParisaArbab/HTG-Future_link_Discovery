@@ -350,15 +350,11 @@ The included CSV files are synthetic MAG-style data created for demonstration. T
 
 ## License
 
-Copyright (c) 2026 Parisa Arbab
-
-All rights reserved by Author.
-
-
+This project is for educational purposes. All rights reserved by the author.
 
 ## Author
 
 **Parisa Arbab**
 
-- GitHub: [ParisaArbab](https://github.com/ParisaArbab)
-- LinkedIn: Add your LinkedIn profile URL here
+GitHub: https://github.com/ParisaArbab  
+LinkedIn: https://www.linkedin.com/in/parisa-arbab
