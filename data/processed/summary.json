@@ -1,0 +1,8 @@
+{
+  "authors": 30,
+  "papers": 60,
+  "concepts": 10,
+  "author_paper_edges": 114,
+  "paper_concept_edges": 170,
+  "feature_dim": 64
+}

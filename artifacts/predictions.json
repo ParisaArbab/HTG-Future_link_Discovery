@@ -1,0 +1,302 @@
+[
+  {
+    "paper_id": 19,
+    "concept_id": 9,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 25,
+    "concept_id": 1,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 34,
+    "concept_id": 9,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 40,
+    "concept_id": 8,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 44,
+    "concept_id": 1,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 47,
+    "concept_id": 1,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 50,
+    "concept_id": 4,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 57,
+    "concept_id": 4,
+    "score": 0.99,
+    "label": 1
+  },
+  {
+    "paper_id": 35,
+    "concept_id": 8,
+    "score": 0.974889666282087,
+    "label": 1
+  },
+  {
+    "paper_id": 48,
+    "concept_id": 3,
+    "score": 0.9653673913181008,
+    "label": 1
+  },
+  {
+    "paper_id": 59,
+    "concept_id": 1,
+    "score": 0.9572429869499416,
+    "label": 1
+  },
+  {
+    "paper_id": 53,
+    "concept_id": 1,
+    "score": 0.9516962698924961,
+    "label": 1
+  },
+  {
+    "paper_id": 21,
+    "concept_id": 6,
+    "score": 0.9482151963907459,
+    "label": 1
+  },
+  {
+    "paper_id": 37,
+    "concept_id": 0,
+    "score": 0.9477313641867494,
+    "label": 1
+  },
+  {
+    "paper_id": 20,
+    "concept_id": 4,
+    "score": 0.9474959970149545,
+    "label": 1
+  },
+  {
+    "paper_id": 45,
+    "concept_id": 8,
+    "score": 0.9385103184692397,
+    "label": 1
+  },
+  {
+    "paper_id": 41,
+    "concept_id": 8,
+    "score": 0.9378855600560934,
+    "label": 1
+  },
+  {
+    "paper_id": 6,
+    "concept_id": 7,
+    "score": 0.9297729323526477,
+    "label": 1
+  },
+  {
+    "paper_id": 56,
+    "concept_id": 6,
+    "score": 0.9238517184151116,
+    "label": 1
+  },
+  {
+    "paper_id": 33,
+    "concept_id": 6,
+    "score": 0.9163106479542752,
+    "label": 1
+  },
+  {
+    "paper_id": 30,
+    "concept_id": 3,
+    "score": 0.9109589235909276,
+    "label": 1
+  },
+  {
+    "paper_id": 3,
+    "concept_id": 7,
+    "score": 0.9061693898558628,
+    "label": 1
+  },
+  {
+    "paper_id": 55,
+    "concept_id": 1,
+    "score": 0.9013415036139021,
+    "label": 1
+  },
+  {
+    "paper_id": 31,
+    "concept_id": 7,
+    "score": 0.8935585781525766,
+    "label": 1
+  },
+  {
+    "paper_id": 47,
+    "concept_id": 3,
+    "score": 0.8784991487694116,
+    "label": 1
+  },
+  {
+    "paper_id": 22,
+    "concept_id": 6,
+    "score": 0.8724633211706523,
+    "label": 1
+  },
+  {
+    "paper_id": 26,
+    "concept_id": 7,
+    "score": 0.8723637695705313,
+    "label": 1
+  },
+  {
+    "paper_id": 45,
+    "concept_id": 4,
+    "score": 0.8661457068055012,
+    "label": 0
+  },
+  {
+    "paper_id": 33,
+    "concept_id": 0,
+    "score": 0.8645416502951351,
+    "label": 1
+  },
+  {
+    "paper_id": 32,
+    "concept_id": 1,
+    "score": 0.862936831798113,
+    "label": 1
+  },
+  {
+    "paper_id": 43,
+    "concept_id": 7,
+    "score": 0.8616317296573031,
+    "label": 1
+  },
+  {
+    "paper_id": 12,
+    "concept_id": 7,
+    "score": 0.860161958889025,
+    "label": 1
+  },
+  {
+    "paper_id": 9,
+    "concept_id": 8,
+    "score": 0.8597447016607115,
+    "label": 1
+  },
+  {
+    "paper_id": 13,
+    "concept_id": 4,
+    "score": 0.85557782773568,
+    "label": 1
+  },
+  {
+    "paper_id": 21,
+    "concept_id": 5,
+    "score": 0.8537307753548278,
+    "label": 1
+  },
+  {
+    "paper_id": 52,
+    "concept_id": 7,
+    "score": 0.8518336020031207,
+    "label": 1
+  },
+  {
+    "paper_id": 15,
+    "concept_id": 7,
+    "score": 0.8509818098470027,
+    "label": 1
+  },
+  {
+    "paper_id": 37,
+    "concept_id": 4,
+    "score": 0.8506199194583565,
+    "label": 1
+  },
+  {
+    "paper_id": 10,
+    "concept_id": 6,
+    "score": 0.8451722893925827,
+    "label": 1
+  },
+  {
+    "paper_id": 20,
+    "concept_id": 8,
+    "score": 0.8429557624751514,
+    "label": 1
+  },
+  {
+    "paper_id": 28,
+    "concept_id": 1,
+    "score": 0.839888419086348,
+    "label": 1
+  },
+  {
+    "paper_id": 9,
+    "concept_id": 5,
+    "score": 0.8380401572510705,
+    "label": 0
+  },
+  {
+    "paper_id": 24,
+    "concept_id": 6,
+    "score": 0.8357811178188954,
+    "label": 1
+  },
+  {
+    "paper_id": 48,
+    "concept_id": 5,
+    "score": 0.8339816828925952,
+    "label": 1
+  },
+  {
+    "paper_id": 38,
+    "concept_id": 2,
+    "score": 0.8337542727312062,
+    "label": 1
+  },
+  {
+    "paper_id": 1,
+    "concept_id": 8,
+    "score": 0.8323173960158181,
+    "label": 1
+  },
+  {
+    "paper_id": 56,
+    "concept_id": 3,
+    "score": 0.8319719394745577,
+    "label": 1
+  },
+  {
+    "paper_id": 37,
+    "concept_id": 7,
+    "score": 0.8302214182825605,
+    "label": 1
+  },
+  {
+    "paper_id": 13,
+    "concept_id": 8,
+    "score": 0.8262825439380632,
+    "label": 1
+  },
+  {
+    "paper_id": 4,
+    "concept_id": 1,
+    "score": 0.825061841087787,
+    "label": 1
+  }
+]
